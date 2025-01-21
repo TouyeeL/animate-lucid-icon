@@ -16,5 +16,5 @@
 * Icons from [Lucide](https://lucide.dev/)
 * [Animate CSS](https://daneden.github.io/animate.css/)
 * [Normalize CSS](https://necolas.github.io/normalize.css/)
-
+* [icon](https://lucide.dev/icons/atom)
 
